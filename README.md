@@ -4,6 +4,8 @@
 Test SIR model based on Ottar's book book code from ch 1
 births and deaths included
 
+this uses fractional populations 
+
 ```math
 \begin{align}
 \frac{dS}{dt} &= \mu (N - S) -\beta S \frac{I}{N} \\
